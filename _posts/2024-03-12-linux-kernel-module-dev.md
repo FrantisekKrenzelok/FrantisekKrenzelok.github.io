@@ -1,5 +1,5 @@
 ---
-title: linux-kernel-module-dev
+title: Linux Kernel Module Development Guide: A Tutorial for Beginners
 date: 2024-03-12T13:58:16
 updated: 2024-03-12T13:58:16
 categories:
@@ -8,6 +8,8 @@ tags:
   - dev
   - kernel
 ---
+Looking to dip your toes into Linux kernel module development? Well, you're in for a treat! We've got a no-frills, step-by-step guide that'll take you from zero to hero in no time. In this blog, we'll walk you through setting up your local development environment, using qemu for safe testing, and the optional (but highly recommended) integration of gdb for debugging. Perfect for beginners, this guide will simplify the seemingly complex world of kernel development into an approachable and manageable process. Ready to get started?
+
 # Abstract
 This guide provides a comprehensive setup for Linux kernel module development. It enables development on a local machine and testing on a virtual one, protecting the development system from potential kernel panics. Using a Virtual Machine (VM) also facilitates system-wide debugging with gdb.
 

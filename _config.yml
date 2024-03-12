@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "František Krenželok"
   avatar : "/assets/images/br2.png"
-  bio    : "Let there be a light!"
+  bio    : "Let there be light!"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -77,8 +77,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false
+      comments: false
       share: true
       related: true
   # _pages

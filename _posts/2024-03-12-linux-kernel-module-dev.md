@@ -1,5 +1,5 @@
 ---
-title: Linux Kernel Module Development Guide: A Tutorial for Beginners
+title: Linux Kernel Module Development Guide - A Tutorial for Beginners
 date: 2024-03-12T13:58:16
 updated: 2024-03-12T13:58:16
 categories:

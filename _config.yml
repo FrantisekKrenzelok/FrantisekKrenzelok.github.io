@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "František Krenželok"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/br2.png"
   bio    : "Let there be a light!"
   links:
     - label: "GitHub"
